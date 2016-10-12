@@ -4,6 +4,9 @@ bce-bos-uploader 是基于 [bce-sdk-js](https://github.com/baidubce/bce-sdk-js) 
 
 DEMO地址：<http://leeight.github.io/bce-bos-uploader/>
 
+### 老虎会游泳更新：
+移除了 bce-bos-uploader.bundle.min.js 中的百度统计代码！！！！！！！！！
+
 ### 支持的浏览器
 
 1. 基于Xhr2和[File API](http://caniuse.com/#feat=fileapi)，可以支持：IE10+, Firefox/Chrome/Opera 最新版
